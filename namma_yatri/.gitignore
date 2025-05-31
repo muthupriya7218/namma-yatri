@@ -1,1 +1,16 @@
+# Power BI temp/cache files
+*.pbix.cache
+*.pbix.bak
+*.pbix.tmp
+
+# Microsoft Word temp files
+~$*.docx
+
+# Excel temp files
+~$*.xlsx
+*.tmp
+
+# OS-specific hidden files
+.DS_Store       # macOS
+Thumbs.db       # Windows
 
